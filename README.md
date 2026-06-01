@@ -1,4 +1,3 @@
----
 # 🌿 Green IT Strategy – Doctolib
 
 > Cas pratique réalisé dans le cadre d'une formation RSE.  
